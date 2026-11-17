@@ -10,4 +10,4 @@ Checking and fixing variable types in a small census dataset.
 
 **Skills:** pandas, variable types, ordinal and nominal encoding.
 
-Dataset: `census_data.csv` from Codecademy (not included here).
+Data: `census_data.csv` (simulated census data from Codecademy).
