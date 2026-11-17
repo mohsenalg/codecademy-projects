@@ -12,4 +12,13 @@ My solutions to projects from Codecademy courses. Each folder is one project wit
 | [Exploring Mushrooms](exploring-mushrooms) | Bar charts for categorical data |
 | [NBA Trends](nba-trends) | Associations between variables |
 
-Datasets belong to Codecademy and are not included. The code was written to run inside the Codecademy workspace (`codecademylib3` is a Codecademy helper for showing plots).
+Each folder includes the data file the project uses, so you can run it yourself.
+
+## How to run a project
+
+1. Install the libraries: `pip install pandas numpy matplotlib seaborn scipy`
+2. Go into the project folder, for example `cd nba-trends`
+3. Remove the line `import codecademylib3` (or `codecademylib3_seaborn`). It is a Codecademy helper that only works on their site.
+4. Run the script: `python script.py`
+
+The datasets come from Codecademy course material and are shared here for learning.
