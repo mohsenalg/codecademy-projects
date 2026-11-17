@@ -9,4 +9,4 @@ Mean, variance and standard deviation of London temperatures in 2015.
 
 **Skills:** pandas, NumPy, spread (variance, standard deviation), matplotlib.
 
-Dataset: `weather_data` from Codecademy (not included here).
+Data: `weather.p` (pickled pandas DataFrame of 2015 London weather from Codecademy), loaded by `weather_data.py`. It was pickled with an old pandas version, so a recent pandas may not be able to load it.
