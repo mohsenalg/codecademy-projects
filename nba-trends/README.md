@@ -9,4 +9,4 @@ Looking for associations between variables in historical NBA game data (2010 and
 
 **Skills:** pandas, seaborn, SciPy (`chi2_contingency`, `pearsonr`), matplotlib.
 
-Dataset: `nba_games.csv` from Codecademy / FiveThirtyEight (not included here).
+Data: `nba_games.csv` (from Codecademy, based on FiveThirtyEight NBA Elo data).
