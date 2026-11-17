@@ -9,4 +9,4 @@ Bar charts for every variable in the UCI mushroom dataset (23 categorical column
 
 **Skills:** pandas, seaborn, matplotlib, bar charts for categorical data.
 
-Dataset: [UCI Mushroom dataset](https://archive.ics.uci.edu/dataset/73/mushroom) (not included here).
+Data: `mushroom_data.csv` (Codecademy version of the [UCI Mushroom dataset](https://archive.ics.uci.edu/dataset/73/mushroom)).
