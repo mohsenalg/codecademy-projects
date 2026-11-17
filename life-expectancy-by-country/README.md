@@ -9,4 +9,4 @@ Comparing life expectancy between low-GDP and high-GDP countries using quartiles
 
 **Skills:** pandas, NumPy quantiles, histograms.
 
-Dataset: `country_data.csv` from Codecademy (not included here).
+Data: `country_data.csv` (from Codecademy).
