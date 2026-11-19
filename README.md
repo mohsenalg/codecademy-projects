@@ -11,6 +11,7 @@ My solutions to projects from Codecademy courses. Each folder is one project wit
 | [Life Expectancy By Country](life-expectancy-by-country) | Quartiles and histograms |
 | [Exploring Mushrooms](exploring-mushrooms) | Bar charts for categorical data |
 | [NBA Trends](nba-trends) | Associations between variables |
+| [Detecting Product Defects](product-defects) | Poisson distribution: PMF, CDF, simulation |
 
 ## Learn Intermediate Python 3
 
