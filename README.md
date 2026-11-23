@@ -17,6 +17,7 @@ My solutions to projects from Codecademy courses. Each folder is one project wit
 | [A/B Testing at Nosh Mish Mosh](nosh-mish-mosh-ab-testing) | A/B test design: baseline rate, minimum detectable effect, sample size |
 | [Familiar: A Study in Data Analysis](familiar-blood-transfusion) | Choosing and running tests: one-sample t-test, two-sample t-test, Chi-Square |
 | [FetchMaker](fetchmaker) | Binomial test, ANOVA with Tukey, Chi-Square on dog adoption data |
+| [Analyzing FarmBurg's A/B Test](farmburg-ab-test) | A/B test pricing: Chi-Square and one-sided binomial tests against a revenue target |
 
 ## Learn Intermediate Python 3
 
