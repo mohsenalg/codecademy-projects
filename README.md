@@ -16,6 +16,7 @@ My solutions to projects from Codecademy courses. Each folder is one project wit
 | [Heart Disease Research Part II](heart-disease-research-2) | Hypothesis testing for associations: two-sample t-test, ANOVA, Tukey, Chi-Square |
 | [A/B Testing at Nosh Mish Mosh](nosh-mish-mosh-ab-testing) | A/B test design: baseline rate, minimum detectable effect, sample size |
 | [Familiar: A Study in Data Analysis](familiar-blood-transfusion) | Choosing and running tests: one-sample t-test, two-sample t-test, Chi-Square |
+| [FetchMaker](fetchmaker) | Binomial test, ANOVA with Tukey, Chi-Square on dog adoption data |
 
 ## Learn Intermediate Python 3
 
