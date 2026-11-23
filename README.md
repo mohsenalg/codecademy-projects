@@ -13,6 +13,7 @@ My solutions to projects from Codecademy courses. Each folder is one project wit
 | [NBA Trends](nba-trends) | Associations between variables |
 | [Detecting Product Defects](product-defects) | Poisson distribution: PMF, CDF, simulation |
 | [Heart Disease Research Part I](heart-disease-research-1) | Hypothesis testing: one-sample t-test and binomial test |
+| [Heart Disease Research Part II](heart-disease-research-2) | Hypothesis testing for associations: two-sample t-test, ANOVA, Tukey, Chi-Square |
 
 ## Learn Intermediate Python 3
 
