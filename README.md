@@ -18,6 +18,7 @@ My solutions to projects from Codecademy courses. Each folder is one project wit
 | [Familiar: A Study in Data Analysis](familiar-blood-transfusion) | Choosing and running tests: one-sample t-test, two-sample t-test, Chi-Square |
 | [FetchMaker](fetchmaker) | Binomial test, ANOVA with Tukey, Chi-Square on dog adoption data |
 | [Analyzing FarmBurg's A/B Test](farmburg-ab-test) | A/B test pricing: Chi-Square and one-sided binomial tests against a revenue target |
+| [Linear Regression at Codecademy](linear-regression-at-codecademy) | Simple linear regression: fitting, interpreting coefficients, checking assumptions, categorical predictor |
 
 ## Learn Intermediate Python 3
 
