@@ -19,6 +19,7 @@ My solutions to projects from Codecademy courses. Each folder is one project wit
 | [FetchMaker](fetchmaker) | Binomial test, ANOVA with Tukey, Chi-Square on dog adoption data |
 | [Analyzing FarmBurg's A/B Test](farmburg-ab-test) | A/B test pricing: Chi-Square and one-sided binomial tests against a revenue target |
 | [Linear Regression at Codecademy](linear-regression-at-codecademy) | Simple linear regression: fitting, interpreting coefficients, checking assumptions, categorical predictor |
+| [Algerian Forest Fires](algerian-forest-fires) | Multiple linear regression: binary predictor, interaction term, polynomial term, multicollinearity |
 
 ## Learn Intermediate Python 3
 
